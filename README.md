@@ -10,6 +10,13 @@ I’m a Software engineer with an affinity towards photography, specifically lan
 - 📫 How to reach me: [Email me here](mailto:info@krishnadubagunta.com)
 -  ⚡ Fun fact: I sell prints.
 
+### Code with environment setup in the following languages
+
+- Rust - [Visit Here](https://github.com/krishnadubagunta/rust)
+- Ruby - [Visit Here](https://github.com/krishnadubagunta/ruby)
+
+---
+
 Thank you for reading about me. You can explore my repositories and contact me If you want me to collaborate.
 <!--
 
