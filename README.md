@@ -19,7 +19,7 @@ I’m a Software engineer with an affinity towards photography, specifically lan
 
 ### Leetcode
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=strangeranda&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=strangeranda&theme=dark)
 
 Thank you for reading about me. You can explore my repositories and contact me If you want me to collaborate.
 <!--
